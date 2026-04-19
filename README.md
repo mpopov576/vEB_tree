@@ -5,4 +5,4 @@ U - size of the universe
 
 Complexity for build: O(U)
 
-Complexity per Query/Operation: O(loglogU)
+Complexity per query/operation: O(loglogU)
