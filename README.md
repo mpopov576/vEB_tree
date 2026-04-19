@@ -1,5 +1,5 @@
 # vEB_tree
-Implementation of the structure van Emde Boas Tree
+Implementation of the structure van Emde Boas tree
 
 U - size of the universe
 
